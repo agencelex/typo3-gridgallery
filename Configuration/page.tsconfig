@@ -1,0 +1,5 @@
+TCEFORM.tt_content {
+  image_zoom.types.gridgallery_gallery.disabled = 0
+  imagewidth.types.gridgallery_gallery.disabled = 0
+  imageheight.types.gridgallery_gallery.disabled = 0
+}
