@@ -2,6 +2,7 @@
   "name": "lex/typo3-gridgallery",
   "description": "Grid Gallery for TYPO3",
   "type": "typo3-cms-extension",
+  "minimum-stability": "stable",
   "version": "1.3.0",
   "keywords": [
     "TYPO3",
