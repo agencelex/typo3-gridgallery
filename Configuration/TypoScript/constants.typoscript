@@ -45,6 +45,6 @@ plugin.tx_gridgallery {
 
   # customsubcategory=external=External libraries
 
-  # cat=plugin.tx_gridgallery/external/e01; type=boolean; label=Load jQuery: Enable this, if your website does not already use jQuery (loads jquery 3.4.1)
+  # cat=plugin.tx_gridgallery/external/e01; type=boolean; label=Load jQuery: Enable this, if your website does not already use jQuery (loads jQuery 4.0.0)
   enableJquery = 0
 }
